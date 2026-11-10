@@ -1,0 +1,15 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,10/2026,
+#Name,Fits to the simulated f(nu) at z = 0: rms of ln f over -4 < ln nu < 2.6 for fitted and default parameters,
+"#Ref. [1] Fig. 4, 6",https://arxiv.org/abs/2110.09676,"Xu, Halo mass functions from maximum entropy distributions in collisionless dark matter flow (P23; comprehensively revised 2026)"
+#Note,"P: (alpha, gamma); Dl: (eta0, q); ST: (q, p); *_default: paper values; PS has no parameter",
+,,
+,,
+form,rms ln f,parameters
+P,0.176094004,0.42876 0.210181
+Dl,0.184121248,0.78517 0.674081
+ST,0.208799996,0.684891 0.213648
+P_default,0.539016786,
+Dl_default,0.266633629,
+ST_default,0.349911207,
+PS,0.445173561,

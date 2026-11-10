@@ -1,0 +1,13 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,10/2026,,,
+#Name,"Halo statistics vs redshift (group values, Zenodo Part I): mean nu = sigma_v^2/sigma_h_bar^2(z), sigma_h_bar^2(z), fraction of the mass in halos",,,
+#Ref. [1] Xu 2021, arXiv:2110.09676,https://arxiv.org/abs/2110.09676,"Xu, Halo mass functions from maximum entropy distributions in collisionless dark matter flow",,
+#Ref. [2],https://doi.org/10.5281/zenodo.6541231,Dark matter flow dataset Part I (halo-based statistics),,
+,,,,
+,,,,
+z,halo_mass_fraction,mean_nu,median_nu,sigma_h_bar2_kms2
+0,0.613360584,1.14193612,0.329294706,71739.0799
+0.3,0.533145249,0.943347731,0.280354346,60686.6408
+0.5,0.480106533,0.853161923,0.273629651,54816.4033
+1,0.35548532,0.715908313,0.240699918,44012.7543
+2,0.160045803,0.564328534,0.308572294,31628.9573
